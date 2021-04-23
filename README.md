@@ -1,6 +1,6 @@
 ## <img src="https://github.com/GabrielaG30/GabrielaG30/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/GabrielaG30/GabrielaG30/blob/main/Earth.gif" width="24px">
 
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto: gabrielagoncalvesj@gmail.com)
 
 #### Languages and tools already experienced and improving:
 
