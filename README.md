@@ -1,7 +1,7 @@
 ## <img src="https://github.com/GabrielaG30/GabrielaG30/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/GabrielaG30/GabrielaG30/blob/main/Earth.gif" width="24px">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielagon%C3%A7alvesj/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](gmail:gabrielagoncalvesj@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?zx=vnb7xhnqbqpm#inbox?compose=new)
 
 Oi, eu sou a Gabriela!
 
